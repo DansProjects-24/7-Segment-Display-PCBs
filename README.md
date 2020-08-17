@@ -1,2 +1,8 @@
 # 7-Segment-Display-PCBs
-100mm Tal 7 segemnt display PCBs with integrated decoder/driver
+100mm Tal7 7-Segemnt display PCBs with integrated decoder/driver
+
+# Where to buy
+The PCBs where manufactured by Aisler.
+
+# Design Files
+The board was designed in DesignsparkPCB
